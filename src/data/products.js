@@ -4,7 +4,7 @@ const products = [
   name:"Wireless Headphones",
   price:1500,
   category:"Electronics",
-  image:"https://via.placeholder.com/200",
+ image: "/images/wireless-headphones.jpg",
   description:"High quality wireless headphones.",
   stock:10
  },
@@ -14,7 +14,7 @@ const products = [
   name:"Smart Watch",
   price:2500,
   category:"Electronics",
-  image:"https://via.placeholder.com/200",
+  image: "/images/smart-watch.jpg",
   description:"Fitness tracking smart watch.",
   stock:8
  },
@@ -24,7 +24,7 @@ const products = [
   name:"Coffee Maker",
   price:3000,
   category:"Appliances",
-  image:"https://via.placeholder.com/200",
+  image:"/images/coffee-maker.jpg",
   description:"Automatic coffee maker.",
   stock:5
  },
@@ -34,7 +34,7 @@ const products = [
   name:"Backpack",
   price:900,
   category:"Fashion",
-  image:"https://via.placeholder.com/200",
+  image:"/images/backpack.jpg",
   description:"Durable everyday backpack.",
   stock:15
  },
@@ -44,7 +44,7 @@ const products = [
   name:"Keyboard",
   price:1200,
   category:"Electronics",
-  image:"https://via.placeholder.com/200",
+  image:"/images/keyboard.jpg",
   description:"Mechanical keyboard.",
   stock:20
  },
@@ -54,7 +54,7 @@ const products = [
   name:"Desk Lamp",
   price:700,
   category:"Home",
-  image:"https://via.placeholder.com/200",
+  image: "/images/desk-lamp.jpg",
   description:"LED adjustable lamp.",
   stock:12
  },
@@ -64,7 +64,7 @@ const products = [
   name:"Running Shoes",
   price:2200,
   category:"Sports",
-  image:"https://via.placeholder.com/200",
+  image: "/images/running-shoes.jpg",
   description:"Comfortable running shoes.",
   stock:9
  },
@@ -74,7 +74,7 @@ const products = [
   name:"Water Bottle",
   price:500,
   category:"Sports",
-  image:"https://via.placeholder.com/200",
+  image: "/images/water-bottle.jpg",
   description:"Reusable bottle.",
   stock:30
  }
